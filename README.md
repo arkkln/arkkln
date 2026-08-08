@@ -4,7 +4,7 @@ i believe data, systems and agents can be connected better than they are now, so
 
 **timeline**
 
-**now - nustackdev - [github.com/nustackdev](https://github.com/nustackdev)**
+**2024-now - nustackdev - [github.com/nustackdev](https://github.com/nustackdev)**
 - Nu (the interaction primitive) and the stack around it: model, fabrics, apps.
 - build apps in one primitive that spans your whole stack - databases, UIs, AI agents, and services. no glue. 50x less code.
 - 2024-2026: designed the spec, built Nu and the infra to make it real.
@@ -12,7 +12,7 @@ i believe data, systems and agents can be connected better than they are now, so
 - now: shipping, growing, iterating.
 
 **2019-2024 - Aim - [github.com/aimhubio](https://github.com/aimhubio)**
-- experiment tracker for ML.
+- open-source experiment tracker for ML.
 - 6k stars, deployed inside FAANG orgs, raised $2.5M. didn't hit escape velocity, failed.
 
 **2017 - onyourway - peer-to-peer delivery service**
