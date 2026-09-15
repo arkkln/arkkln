@@ -1,4 +1,4 @@
-### hey - gor here
+### hey, gor here
 
 i believe data, systems and agents can be connected better than they are now, so i'm building [github.com/nustackdev](https://github.com/nustackdev).
 
@@ -6,17 +6,18 @@ i believe data, systems and agents can be connected better than they are now, so
 
 **2024-now - nustackdev - [github.com/nustackdev](https://github.com/nustackdev)**
 - Nu (the interaction primitive) and the stack around it: model, fabrics, apps.
-- build apps in one primitive that spans your whole stack - databases, UIs, AI agents, and services. no glue. 50x less code.
+- Nu enables to build apps in one primitive that spans the whole stack - databases, UIs, AI agents, and services.
 - 2024-2026: designed the spec, built Nu and the infra to make it real.
-- summer 2026: open sourced.
 - now: shipping, growing, iterating.
 
 **2019-2024 - Aim - [github.com/aimhubio](https://github.com/aimhubio)**
 - open-source experiment tracker for ML.
-- 6k stars, deployed inside FAANG orgs, raised $2.5M. didn't hit escape velocity, failed.
+- oss: 6K+ stars, 1K+ "used by"s, 10M+ downloads, deployed inside FAANG orgs, still growing.
+- org: raised $2.5M. didn't hit escape velocity, failed.
 
 **2017 - onyourway - peer-to-peer delivery service**
-- first startup, bootstrapped. helping people get items delivered by travelers already heading that way.
+- helping people get items delivered by travelers already heading that way.
+- first startup, bootstrapped.
 - $15k/mo revenue, model wasn't scalable, moved on.
 
 **2016 - Armenian NLP**
