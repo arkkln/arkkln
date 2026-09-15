@@ -29,4 +29,4 @@ i believe data, systems and agents can be connected better than they are now, so
 
 ---
 
-[linkedin](https://linkedin.com/in/arkkln) · [twitter](https://twitter.com/arkkln) · [medium](https://gorar.medium.com/)
+[linkedin](https://linkedin.com/in/arkkln) · [twitter](https://twitter.com/arkkln) · [medium](https://arkkln.medium.com/) · [telegram](https://t.me/arkkln)
