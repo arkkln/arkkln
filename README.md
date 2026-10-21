@@ -1,32 +1,29 @@
-### hey, gor here
+## Hey, Gor here
 
-i believe data, systems and agents can be connected better than they are now, so i'm building [github.com/nustackdev](https://github.com/nustackdev).
+I think notes, data, tools and agents can be connected far better than they are now, so I'm building nuspace.
 
-**timeline**
+<h3><img align="left" width="104" src="https://nustack.dev/brand/logo-square-512@2x.png" alt="nuspace" />nuspace</h3>
+<p>Computational space for everything you work with<br />
+<a href="https://github.com/nustackdev/nuspace">Repo</a> · <a href="https://nustack.dev">nustack.dev</a> · <a href="https://x.com/nustackdev">X</a></p>
 
-**2024-now - nustackdev - [github.com/nustackdev](https://github.com/nustackdev)**
-- Nu (the interaction primitive) and the stack around it: model, fabrics, apps.
-- Nu enables to build apps in one primitive that spans the whole stack - databases, UIs, AI agents, and services.
-- 2024-2026: designed the spec, built Nu and the infra to make it real.
-- now: shipping, growing, iterating.
+<br clear="left" />
 
-**2019-2024 - Aim - [github.com/aimhubio](https://github.com/aimhubio)**
-- open-source experiment tracker for ML.
-- oss: 6K+ stars, 1K+ "used by"s, 10M+ downloads, deployed inside FAANG orgs, still growing.
-- org: raised $2.5M. didn't hit escape velocity, failed.
+Elsewhere, a note is a dead document, data is scattered, tools are siloed and an agent's work is lost in chat. In nuspace, they're all connected cells: living programs that hold data, logic and look in one form.
 
-**2017 - onyourway - peer-to-peer delivery service**
-- helping people get items delivered by travelers already heading that way.
-- first startup, bootstrapped.
-- $15k/mo revenue, model wasn't scalable, moved on.
-
-**2016 - Armenian NLP**
-- helped build the first open-source Armenian corpora - [github.com/Armtreebank](https://github.com/Armtreebank)
-- trained early NLP models at [github.com/YerevaNN](https://github.com/YerevaNN)
-- platform, data, models - all open sourced.
-
-**pre-2014** - hacking on stuff in my teens (open-source social network engine, among other things)
+https://github.com/user-attachments/assets/c74b7f85-b8c5-4796-8de6-bfc1b7679eb8
 
 ---
 
-[linkedin](https://linkedin.com/in/arkkln) · [twitter](https://twitter.com/arkkln) · [medium](https://arkkln.medium.com/) · [telegram](https://t.me/arkkln)
+<h3><img align="left" width="104" src="https://github.com/user-attachments/assets/71e5e2fe-3f89-4098-985a-e38c32049904" alt="Aim" />Aim</h3>
+<p>Experiment tracker for ML<br />
+<a href="https://github.com/aimhubio/aim">Repo</a></p>
+
+<br clear="left" />
+
+Open source and self-hosted, built to log and compare thousands of training runs.
+
+6k+ stars, 10M+ downloads, adopted by FAANG orgs.
+
+---
+
+[LinkedIn](https://linkedin.com/in/arkkln) · [X](https://x.com/arkkln) · [Medium](https://gorar.medium.com/)
