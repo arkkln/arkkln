@@ -1,6 +1,8 @@
 ## Hey, Gor here
 
-I think notes, data, tools and agents can be connected far better than they are now, so I'm building nuspace.
+I believe notes, data, tools and agents can be connected far better than they are now, so I'm building nuspace. I also started Aim, an open-source experiment tracker for ML.
+
+###### NOW BUILDING
 
 <h3><img align="left" width="104" src="https://nustack.dev/brand/logo-square-512@2x.png" alt="nuspace" />nuspace</h3>
 <p>Computational space for everything you work with<br />
@@ -14,6 +16,8 @@ https://github.com/user-attachments/assets/c74b7f85-b8c5-4796-8de6-bfc1b7679eb8
 
 ---
 
+###### PREVIOUSLY
+
 <h3><img align="left" width="104" src="https://github.com/user-attachments/assets/71e5e2fe-3f89-4098-985a-e38c32049904" alt="Aim" />Aim</h3>
 <p>Experiment tracker for ML<br />
 <a href="https://github.com/aimhubio/aim">Repo</a></p>
@@ -22,7 +26,7 @@ https://github.com/user-attachments/assets/c74b7f85-b8c5-4796-8de6-bfc1b7679eb8
 
 Open source and self-hosted, built to log and compare thousands of training runs.
 
-6k+ stars, 10M+ downloads, adopted by FAANG orgs.
+6K+ stars, 10M+ downloads, adopted by FAANG orgs.
 
 ---
 
